@@ -42,7 +42,6 @@ Using Express.js and Node.js to build an API is chosen due to the combination of
           "error": 'Internal Server Error'
       }
       ```
-      ```
   
 
 - ### Get All Batiks
