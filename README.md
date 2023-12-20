@@ -1,4 +1,4 @@
-# Batiklens-API
+# BatikLens API
 
 # Description
 Using Express.js and Node.js to build an API is chosen due to the combination of high performance, lightweight structure, extensive community support, robust middleware, clear routing system, good scalability, easy implementation of RESTful principles, and built-in support for JSON data exchange. These advantages make Node.js and Express.js a superior choice for API development projects, enabling developers to achieve optimal performance and development efficiency.
